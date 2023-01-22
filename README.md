@@ -1,10 +1,10 @@
 ### WELCOME TO MY GITHUB 👋
 
-**About**
 
 My name is Alin, I am a Software Engineering with New skills acquired in Python, Django, NLP. Good problem-solver, with a passion for debugging and understanding complex code. Currently learning Pandas, Keras, TensorFlow.
 Experienced cross-platform mobile applications developer (IOS/Android/Webapp) using Flutter Framework.
 Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with WordPress, Hosting Setup (DNS Management, SSL, cPanel, MySQL, Server backup, Email clients, etc), Google Analytics, Google Ads PPC (set-up and management) SEO. 
+
 
 **Recent work:**
 
@@ -13,6 +13,8 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 [Simple OOP demo](https://github.com/elisrizea/shoes_inventory)
 
 [Final Capstone](https://github.com/elisrizea/finalCapstone)
+
+
 
 *Externel limks:*
 
