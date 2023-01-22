@@ -10,6 +10,7 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alin-rizea-b10368104/" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/linked-in-alt.svg"  height="30" width="40" /></a>
+        
 <a href="https://discord.gg/alin_e_rizea#7045" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/discord.png" alt="alin_e_rizea#7045" height="30" width="100" /></a>
 </p>
 
@@ -29,9 +30,9 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 
 <a href="https://play.google.com/store/search?q=a2%20software&c=apps" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /></a> 
 
-<a href="https://play.google.com/store/apps/details?id=com.a2.books" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/a2.png" height="30" width="40" /></a> (Audio books platform with video and pdf support)
+<a href="https://play.google.com/store/apps/details?id=com.a2.books" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/a2.png" height="30" width="30" />A2 Books</a> (Audio books platform with video and pdf support)
 
-<a href="https://play.google.com/store/apps/details?id=com.a2.i1&hl=en_US&gl=US" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/bl.png" height="30" width="40" />Biblioteca ligiei</a> ( A2 Books another flavor)
+<a href="https://play.google.com/store/apps/details?id=com.a2.i1&hl=en_US&gl=US" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/bl.png" height="30" width="30" />Biblioteca ligiei</a> ( A2 Books another flavor)
 
         
 ***IOS:***  *Main App:*
