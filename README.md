@@ -7,6 +7,7 @@ Experienced cross-platform mobile applications developer (IOS/Android/Webapp) us
 Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with WordPress, Hosting Setup (DNS Management, SSL, cPanel, MySQL, Server backup, Email clients, etc), Google Analytics, Google Ads PPC (set-up and management) SEO.
 
 
+
 ## Contact info:
 
 <p align="left">
@@ -16,6 +17,7 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 </p><br>
 
 
+
 ## Recent work:
 
 *Github Links:*
@@ -23,6 +25,7 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 [Simple OOP demo](https://github.com/elisrizea/shoes_inventory)
 
 [Final Capstone](https://github.com/elisrizea/finalCapstone)<br> 
+
 
 
 ## Externel limks:
@@ -39,9 +42,10 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 
 <a href="https://apps.apple.com/us/app/biblioteca-ligiei/id1623380233" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/bl.png" height="30" width="30" /> Biblioteca ligiei</a> ( A2 Books another flavor)
    
+   
   
 ## Preference:
-## 
+
 **Languages:**
 <img align="center" src="https://bibliotecaligiei.ro/icons/py.png" height="30" width="40" /><img align="center" src="https://bibliotecaligiei.ro/icons/php.jpg" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/dart.png" height="30" width="60" /> <img align="center" src="https://bibliotecaligiei.ro/icons/javascript.jpeg" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/html%205.png" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/css.png" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/mysql.png" height="30" width="100" /> <img align="center" src="https://bibliotecaligiei.ro/icons/sqlite.jpeg" height="30" width="100" />  
 
