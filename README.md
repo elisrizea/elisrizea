@@ -15,7 +15,7 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 </p>
 
 
-### Recent work:
+# Recent work:
 
 *Github Links:*
 
