@@ -42,13 +42,7 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
       
 **Languages:**
 
-<img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> 
-<img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> 
-<img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> 
-<img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> 
-<img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> 
-<img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> 
-<img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> 
+<img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> 
 
 
 
