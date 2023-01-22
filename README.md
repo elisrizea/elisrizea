@@ -10,7 +10,7 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alin-rizea-b10368104/" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/linked-in-alt.svg"  height="30" width="40" /></a>
-<a href="https://discord.gg/alin_e_rizea#7045" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/discord.png" alt="alin_e_rizea#7045" height="30" width="40" /></a>
+<a href="https://discord.gg/alin_e_rizea#7045" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/discord.png" alt="alin_e_rizea#7045" height="30" width="100" /></a>
 </p>
 
 
