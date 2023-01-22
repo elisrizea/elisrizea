@@ -11,6 +11,7 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 *Github Links:*
 
 [Simple OOP demo](https://github.com/elisrizea/shoes_inventory)
+
 [Final Capstone](https://github.com/elisrizea/finalCapstone)
 
 *Externel limks:*
