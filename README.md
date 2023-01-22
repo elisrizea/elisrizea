@@ -52,10 +52,10 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 
 **Tools:**
 
-<img align="center" src="https://bibliotecaligiei.ro/icons/numpy.png" height="30" width="40"  />. <img align="center" src="https://bibliotecaligiei.ro/icons/keras.png" height="30" width="100" />. <img align="center" src="https://bibliotecaligiei.ro/icons/pandas.png" height="30" width="100" />  <img align="center" src="https://bibliotecaligiei.ro/icons/firebase.png" height="30" width="40"  />  <img align="center" src="https://bibliotecaligiei.ro/icons/wp.png" height="30" width="40"  />  <img align="center" src="https://bibliotecaligiei.ro/icons/oscomerce.jpeg" height="30" width="40"  />  <img align="center" src="https://bibliotecaligiei.ro/icons/py.png" height="30" width="40"  />
+<img align="center" src="https://bibliotecaligiei.ro/icons/numpy.png" height="30" width="100"  />. <img align="center" src="https://bibliotecaligiei.ro/icons/keras.png" height="30" width="100" />. <img align="center" src="https://bibliotecaligiei.ro/icons/pandas.png" height="30" width="100" />  <img align="center" src="https://bibliotecaligiei.ro/icons/firebase.png" height="30" width="40"  />  <img align="center" src="https://bibliotecaligiei.ro/icons/wp.png" height="30" width="40"  />  <img align="center" src="https://bibliotecaligiei.ro/icons/oscomerce.jpeg" height="30" width="40"  />
 
 
 **Other skills:**
-<img align="center" src="https://bibliotecaligiei.ro/icons/seo.png" height="30" width="40" />. <img align="center" src="https://bibliotecaligiei.ro/icons/ppc.jpeg" height="30" width="100"  />
+<img align="center" src="https://bibliotecaligiei.ro/icons/seo.png" height="30" width="40" />. <img align="center" src="https://bibliotecaligiei.ro/icons/ppc.jpeg" height="30" width="40"  />
 
 
