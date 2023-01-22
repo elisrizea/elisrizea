@@ -14,7 +14,6 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 <a href="https://discord.gg/alin_e_rizea#7045" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/discord.png" alt="alin_e_rizea#7045" height="30" width="100" /></a>
 </p><br>
 
-
 # Recent work:
 
 *Github Links:*
@@ -37,7 +36,7 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 
 <a href="https://apps.apple.com/us/app/a2-books/id1596772645" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/a2.png" height="30" width="30" /> A2 Books</a> (Audio books platform with video and pdf support)
 
-<a href="https://apps.apple.com/us/app/biblioteca-ligiei/id1623380233" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/bl.png" height="30" width="30" /> Biblioteca ligiei</a> ( A2 Books another flavor) <br> 
+<a href="https://apps.apple.com/us/app/biblioteca-ligiei/id1623380233" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/bl.png" height="30" width="30" /> Biblioteca ligiei</a> ( A2 Books another flavor) <br>  <br> 
     
   
 ### Languages:
