@@ -8,7 +8,10 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 
 **Contact info:**
 
-[](https://bibliotecaligiei.ro/icons/linked-in-alt.svg)(https://www.linkedin.com/in/alin-rizea-b10368104/)
+<p align="left">
+<a href="(https://www.linkedin.com/in/alin-rizea-b10368104/)" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/linked-in-alt.svg"  height="30" width="40" /></a>
+<a href="https://discord.gg/Chiara//#5984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Chiara//#5984" height="30" width="40" /></a>
+</p>
 
 
 **Recent work:**
@@ -42,17 +45,3 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 
 
 
-<!--
-**elisrizea/elisrizea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
