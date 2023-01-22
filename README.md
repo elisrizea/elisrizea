@@ -28,20 +28,19 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 **Externel limks:**
 
 
-<a href="https://play.google.com/store/search?q=a2%20software&c=apps" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /></a> 
+<a href="https://play.google.com/store/search?q=a2%20software&c=apps" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> Android</a> 
 
-<a href="https://play.google.com/store/apps/details?id=com.a2.books" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/a2.png" height="30" width="30" />A2 Books</a> (Audio books platform with video and pdf support)
+<a href="https://play.google.com/store/apps/details?id=com.a2.books" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/a2.png" height="30" width="30" /> A2 Books</a> (Audio books platform with video and pdf support)
 
-<a href="https://play.google.com/store/apps/details?id=com.a2.i1&hl=en_US&gl=US" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/bl.png" height="30" width="30" />Biblioteca ligiei</a> ( A2 Books another flavor)
+<a href="https://play.google.com/store/apps/details?id=com.a2.i1&hl=en_US&gl=US" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/bl.png" height="30" width="30" /> Biblioteca ligiei</a> ( A2 Books another flavor)
+       
+<a href="https://play.google.com/store/search?q=a2%20software&c=apps" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/ios.jpeg" height="30" width="30" /> IOS</a> 
 
-        
-***IOS:***  *Main App:*
+<a href="https://apps.apple.com/us/app/a2-books/id1596772645" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/a2.png" height="30" width="30" /> A2 Books</a> (Audio books platform with video and pdf support)
+
+<a href="https://apps.apple.com/us/app/biblioteca-ligiei/id1623380233" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/bl.png" height="30" width="30" /> Biblioteca ligiei</a> ( A2 Books another flavor)
       
-[A2 Books](https://apps.apple.com/us/app/a2-books/id1596772645)(Audio books platform with video and pdf support)
 
-        
-[Biblioteca ligiei](https://apps.apple.com/us/app/biblioteca-ligiei/id1623380233) ( A2 Books another flavor)
-        
 
 
 
