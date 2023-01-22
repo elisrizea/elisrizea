@@ -19,7 +19,7 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 **Externel limks:**
 
 ***Andriod:*** 
-*Main App:*
+        *Main App:*
 
 [Audio Book platform with video and pdf support](https://play.google.com/store/apps/details?id=com.a2.books)
 
@@ -28,7 +28,7 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
         
         
 ***IOS:***  
-*Main App:*
+        *Main App:*
       
 [Audio Book platform with video and pdf support](https://apps.apple.com/us/app/a2-books/id1596772645)
 
