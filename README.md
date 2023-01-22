@@ -25,6 +25,7 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 
 
 
+
 **Externel limks:**
 
 
@@ -39,7 +40,8 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 <a href="https://apps.apple.com/us/app/a2-books/id1596772645" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/a2.png" height="30" width="30" /> A2 Books</a> (Audio books platform with video and pdf support)
 
 <a href="https://apps.apple.com/us/app/biblioteca-ligiei/id1623380233" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/bl.png" height="30" width="30" /> Biblioteca ligiei</a> ( A2 Books another flavor)
-      
+    
+    
 **Languages:**
 
 <img align="center" src="https://bibliotecaligiei.ro/icons/py.png" height="30" width="40" /><img align="center" src="https://bibliotecaligiei.ro/icons/php.jpg" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/dart.png" height="30" width="60" /> <img align="center" src="https://bibliotecaligiei.ro/icons/javascript.jpeg" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/html%205.png" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/css.png" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/mysql.png" height="30" width="100" /> <img align="center" src="https://bibliotecaligiei.ro/icons/sqlite.jpeg" height="30" width="100" /> 
@@ -49,6 +51,7 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 **Frameworks:**
 
 <img align="center" src="https://bibliotecaligiei.ro/icons/dj.png" height="30" width="40"  />  <img align="center" src="https://bibliotecaligiei.ro/icons/flutter.png" height="30" width="40"  />  <img align="center" src="https://bibliotecaligiei.ro/icons/react-original-wordmark.svg" height="30" width="40"  />
+
 
 **Tools:**
 
