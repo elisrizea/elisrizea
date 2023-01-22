@@ -40,8 +40,25 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 
 <a href="https://apps.apple.com/us/app/biblioteca-ligiei/id1623380233" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/bl.png" height="30" width="30" /> Biblioteca ligiei</a> ( A2 Books another flavor)
       
-**Languages and Tools:**
+**Languages:**
 
-<a href="https://play.google.com/store/search?q=a2%20software&c=apps" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> Android</a> 
-<a href="https://play.google.com/store/search?q=a2%20software&c=apps" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> Android</a> 
+<img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> 
+<img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> 
+<img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> 
+<img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> 
+<img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> 
+<img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> 
+<img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> 
+
+
+
+**Frameworks:**
+
+
+**Tools:**
+
+
+
+
+
 
