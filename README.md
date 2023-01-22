@@ -42,7 +42,7 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
       
 **Languages:**
 
-<img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /> 
+<img align="center" src="https://bibliotecaligiei.ro/icons/py.png" height="30" width="40" /><img align="center" src="https://bibliotecaligiei.ro/icons/php.png" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/dart.png" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/javascript.jpeg" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/html%205.png" height="30" width="40" /> <img align="center" src="https://bibliotecaligiei.ro/icons/css.png" height="30" width="40" /> 
 
 
 
