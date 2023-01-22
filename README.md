@@ -29,6 +29,9 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 
 <a href="https://play.google.com/store/search?q=a2%20software&c=apps" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/android.png" height="30" width="40" /></a>
 
+
+<a href="https://play.google.com/store/apps/details?id=com.a2.books" target="blank"><img align="center" src="[https://bibliotecaligiei.ro/icons/android.png](https://bibliotecaligiei.ro/icons/a2.webp)" height="30" width="40" /></a>
+
 [A2 Books](https://play.google.com/store/apps/details?id=com.a2.books) (Audio books platform with video and pdf support)
 
 
