@@ -1,4 +1,4 @@
-### WELCOME TO MI GITHUB 👋
+### WELCOME TO MY GITHUB 👋
 
 **About**
 
