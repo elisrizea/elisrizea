@@ -22,22 +22,18 @@ Andriod:
 Main App:
 
 [Audio Book platform with video and pdf support](https://play.google.com/store/apps/details?id=com.a2.books)
-        
-        
-Audio Book platform with video and pdf support( Flavor I):
 
-[Biblioteca ligiei](https://play.google.com/store/apps/details?id=com.a2.i1&hl=en_US&gl=US)
+
+[Biblioteca ligiei](https://play.google.com/store/apps/details?id=com.a2.i1&hl=en_US&gl=US) ( Flavor I)
         
         
 IOS:      
 Main App:
       
 [Audio Book platform with video and pdf support](https://apps.apple.com/us/app/a2-books/id1596772645)
-        
-        
-Audio Book platform with video and pdf support( Flavor I):
 
-[Biblioteca ligiei](https://apps.apple.com/us/app/biblioteca-ligiei/id1623380233)
+        
+[Biblioteca ligiei](https://apps.apple.com/us/app/biblioteca-ligiei/id1623380233) ( Flavor I)
         
 
 
