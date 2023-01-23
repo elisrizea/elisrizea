@@ -19,6 +19,7 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax, and years of experience with 
 ## Recent work:
 
 ***Github Links:***
+
 [Final Capstone](https://github.com/elisrizea/finalCapstone)
 
 [Email inbox manager](https://github.com/elisrizea/inbox_simulation.git)
