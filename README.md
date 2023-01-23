@@ -24,7 +24,7 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax/MySQL/SQLlite/NoSQL,, and year
 
 [Email inbox manager](https://github.com/elisrizea/inbox_simulation.git)
 
-[Simple OOP demo](https://github.com/elisrizea/shoes_inventory)
+[Inventory management from file(OOP demo)](https://github.com/elisrizea/shoes_inventory)
 
 
 
