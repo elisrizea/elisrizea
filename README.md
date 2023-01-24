@@ -28,6 +28,8 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax/MySQL/SQLlite/NoSQL,, and year
 
 [Showcase spaCy module limitation](https://github.com/elisrizea/spaCy_limitation)
 
+[spaCy word similarity](https://github.com/elisrizea/spaCy_word_similarity)
+
 
 
 
