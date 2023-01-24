@@ -26,6 +26,9 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax/MySQL/SQLlite/NoSQL,, and year
 
 [Inventory management from file(OOP demo)](https://github.com/elisrizea/shoes_inventory)
 
+[Showcase spaCy module limitation](https://github.com/elisrizea/spaCy_limitation)
+
+
 
 
 ***Externel limks:***
