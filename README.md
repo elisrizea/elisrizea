@@ -20,7 +20,6 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax/MySQL/SQLlite/NoSQL,, and year
 
 ***Github Links:***
 
-[Final Capstone](https://github.com/elisrizea/finalCapstone)
 
 [Email inbox manager](https://github.com/elisrizea/inbox_simulation.git)
 
