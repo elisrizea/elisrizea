@@ -20,7 +20,7 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax/MySQL/SQLlite/NoSQL,, and year
 
 ***Github Links:***
 
-[Python class polymorphism example(https://github.com/elisrizea/polymorphism)
+[Python class polymorphism example](https://github.com/elisrizea/polymorphism)
 
 [Showcase spaCy module limitation](https://github.com/elisrizea/spaCy_limitation)
 
