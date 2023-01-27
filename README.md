@@ -20,16 +20,19 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax/MySQL/SQLlite/NoSQL,, and year
 
 ***Github Links:***
 
-
-[Email inbox manager](https://github.com/elisrizea/inbox_simulation.git)
-
-[Inventory management from file(OOP demo)](https://github.com/elisrizea/shoes_inventory)
+[Python class polymorphism example(https://github.com/elisrizea/polymorphism)
 
 [Showcase spaCy module limitation](https://github.com/elisrizea/spaCy_limitation)
 
 [spaCy word similarity (spaCy models comparison)](https://github.com/elisrizea/spaCy_word_similarity)
 
 [spaCy sentence similarity (4 different ways to aproach it)](https://github.com/elisrizea/sentence_similarity)
+
+[Email inbox manager](https://github.com/elisrizea/inbox_simulation.git)
+
+[Inventory management from file(OOP demo)](https://github.com/elisrizea/shoes_inventory)
+
+
 
 
 
