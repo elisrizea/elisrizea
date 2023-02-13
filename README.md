@@ -35,6 +35,8 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax/MySQL/SQLlite/NoSQL,, and year
 [Bookstore management system(OOP and SQlite demo)](https://github.com/elisrizea/bookstore)
 
 
+[GITHUB merge conflict demo](https://github.com/elisrizea/webdev_merge_conflict)
+
 
 
 
