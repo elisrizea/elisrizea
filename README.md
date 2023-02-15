@@ -75,6 +75,6 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax/MySQL/SQLlite/NoSQL,, and year
 
 ## 
 **Other skills:**
-<img align="center" src="https://bibliotecaligiei.ro/icons/seo.png" height="30" width="40" />. <img align="center" src="https://bibliotecaligiei.ro/icons/ppc.jpeg" height="30" width="40"  />
+<img align="center" src="https://bibliotecaligiei.ro/icons/seo.png" height="30" width="20" />. <img align="center" src="https://bibliotecaligiei.ro/icons/ppc.jpeg" height="30" width="40"  />
 
 
