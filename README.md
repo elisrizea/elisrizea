@@ -71,7 +71,7 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax/MySQL/SQLlite/NoSQL,, and year
 
 ## 
 **Tools:**
-<img align="center" src="https://icon-library.com/images/git-icon/git-icon-6.jpg" height="30" width="30"  />. <img align="center" src="https://bibliotecaligiei.ro/icons/numpy.png" height="30" width="100"  />.<img align="center" src="https://bibliotecaligiei.ro/icons/keras.png" height="30" width="100" />. <img align="center" src="https://bibliotecaligiei.ro/icons/pandas.png" height="30" width="100" />  <img align="center" src="https://bibliotecaligiei.ro/icons/firebase.png" height="30" width="60"  />  <img align="center" src="https://bibliotecaligiei.ro/icons/wp.png" height="30" width="40"  />  <img align="center" src="https://bibliotecaligiei.ro/icons/oscomerce.jpeg" height="30" width="60"  />  <br>
+<img align="center" src="https://icon-library.com/images/git-icon/git-icon-6.jpg" height="50" width="50"  />. <img align="center" src="https://bibliotecaligiei.ro/icons/numpy.png" height="30" width="100"  />.<img align="center" src="https://bibliotecaligiei.ro/icons/keras.png" height="30" width="100" />. <img align="center" src="https://bibliotecaligiei.ro/icons/pandas.png" height="30" width="100" />  <img align="center" src="https://bibliotecaligiei.ro/icons/firebase.png" height="30" width="60"  />  <img align="center" src="https://bibliotecaligiei.ro/icons/wp.png" height="30" width="40"  />  <img align="center" src="https://bibliotecaligiei.ro/icons/oscomerce.jpeg" height="30" width="60"  />  <br>
 
 ## 
 **Other skills:**
