@@ -66,7 +66,7 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax/MySQL/SQLlite/NoSQL,, and year
 
 ## 
 **Frameworks:**
-<img align="center" src="https://bibliotecaligiei.ro/icons/dj.png" height="30" width="40"  />  <img align="center" src="https://bibliotecaligiei.ro/icons/flutter.png" height="30" width="40"  />  <img align="center" src="https://bibliotecaligiei.ro/icons/react-original-wordmark.svg" height="30" width="40"  />  <br>
+<img align="center" src="https://bibliotecaligiei.ro/icons/dj.png" height="30" width="40"  />  <img align="center" src="https://bibliotecaligiei.ro/icons/flutter.png" height="30" width="40"  />   <br>
 
 
 ## 
