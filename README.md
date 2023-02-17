@@ -15,7 +15,7 @@ As a self-starter, I take pride in delivering exceptional results for my clients
 ## Contact info:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/alin-rizea-b10368104/" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/linked-in-alt.svg"  height="30" width="40" /></a>    <br>  <a href="https://discord.gg/alin_e_rizea#7045" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/discord.png" alt="alin_e_rizea#7045" height="30" width="100" /></a>
+<a href="https://www.linkedin.com/in/alin-rizea-b10368104/" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/linked-in-alt.svg"  height="30" width="40" /> LInkedIN</a>    <br> <br>  <a href="https://discord.gg/alin_e_rizea#7045" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/discord.png" alt="alin_e_rizea#7045" height="30" width="100" />Discord</a>
 </p><br>
 
 
