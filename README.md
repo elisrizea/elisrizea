@@ -14,8 +14,8 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax/MySQL/SQLlite/NoSQL,, and year
 <a href="https://www.linkedin.com/in/alin-rizea-b10368104/" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/linked-in-alt.svg"  height="30" width="40" /></a>      <a href="https://discord.gg/alin_e_rizea#7045" target="blank"><img align="center" src="https://bibliotecaligiei.ro/icons/discord.png" alt="alin_e_rizea#7045" height="30" width="100" /></a>
 </p><br>
 
-
-
+[
+]
 ## Recent work:
 
 ***Github Links:***
@@ -29,6 +29,8 @@ Good understanding of HTML/CSS/PHP/JS/jQuery/Ajax/MySQL/SQLlite/NoSQL,, and year
 [spaCy sentence similarity (4 different ways to aproach it)](https://github.com/elisrizea/sentence_similarity)
 
 [Email inbox manager](https://github.com/elisrizea/inbox_simulation.git)
+
+[Play Hangman Game in Console](https://github.com/elisrizea/hangman)
 
 [Inventory management from file(OOP demo)](https://github.com/elisrizea/shoes_inventory)
 
