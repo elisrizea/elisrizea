@@ -3,9 +3,12 @@
 
 
 Hi, I'm Alin, a software engineer with a deep understanding of Python, Django, and NLP. I'm passionate about solving problems and love tackling complex coding challenges. I'm currently expanding my expertise to include Pandas, Keras, and TensorFlow.
+
 I have experience developing cross-platform mobile apps for iOS, Android, and web using the Flutter framework.
 I'm also proficient in a range of tools, including Git, Docker, Kubernetes, Jenkins, Ansible, Puppet, and Linux.
+
 My skills include SEO and managing PPC campaigns, using Google Analytics, Google Ads, Tag Manager, Raven, and other tools. I have a strong background in WordPress and a good understanding of SQL, HTML, CSS, PHP, JavaScript, jQuery, and Ajax.
+
 As a self-starter, I take pride in delivering exceptional results for my clients. I'm always seeking new and innovative ways to improve my skills and stay up to date with the latest trends in the industry.
 
 
