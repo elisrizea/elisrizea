@@ -23,6 +23,8 @@ As a self-starter, I take pride in delivering exceptional results for my clients
 
 ***Github Links:***
 
+[Project Euler first 10 solved challenges](https://github.com/elisrizea/Project_Euler_1)
+
 [Python class polymorphism example](https://github.com/elisrizea/polymorphism)
 
 [Showcase spaCy module limitation](https://github.com/elisrizea/spaCy_limitation)
