@@ -25,6 +25,8 @@ As a self-starter, I take pride in delivering exceptional results for my clients
 
 [Project Euler 10 solved challenges](https://github.com/elisrizea/Project_Euler_1)
 
+[Sync folders(recursive function example)](https://github.com/elisrizea/sync_folders)
+
 [Python class polymorphism example](https://github.com/elisrizea/polymorphism)
 
 [Showcase spaCy module limitation](https://github.com/elisrizea/spaCy_limitation)
