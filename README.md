@@ -23,6 +23,8 @@ As a self-starter, I take pride in delivering exceptional results for my clients
 
 ***Github Links:***
 
+[Decorators easy to understand tutorial-code](https://github.com/elisrizea/decorators_demo)
+
 [Project Euler 10 solved challenges](https://github.com/elisrizea/Project_Euler_1)
 
 [Python class polymorphism example](https://github.com/elisrizea/polymorphism)
