@@ -50,7 +50,9 @@ As a self-starter, I take pride in delivering exceptional results for my clients
 
 [GITHUB merge conflict demo](https://github.com/elisrizea/webdev_merge_conflict)
 
+[Caesar Code Breaker demo](https://github.com/elisrizea/caesar_code_breaker)
 
+[Caesar Cipher demo](https://github.com/elisrizea/Caesar_cipher)
 
 
 ***Externel limks:***
