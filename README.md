@@ -23,6 +23,8 @@ As a self-starter, I take pride in delivering exceptional results for my clients
 
 ***Github Links:***
 
+***Python:***
+
 [Decorators easy to understand tutorial-code](https://github.com/elisrizea/decorators_demo)
 
 [Project Euler 10 solved challenges](https://github.com/elisrizea/Project_Euler_1)
@@ -53,6 +55,10 @@ As a self-starter, I take pride in delivering exceptional results for my clients
 [Caesar Code Breaker demo](https://github.com/elisrizea/caesar_code_breaker)
 
 [Caesar Cipher demo](https://github.com/elisrizea/Caesar_cipher)
+
+***Terraform:***
+
+[AWS VPC using Terraform from scratch](https://github.com/elisrizea/aws_vpc_terraform)
 
 
 ***Externel limks:***
