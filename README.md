@@ -21,7 +21,6 @@ As a self-starter, I take pride in delivering exceptional results for my clients
 
 ## Recent work:
 
-***Github Links:***
 
 ***Python:***
 
@@ -61,7 +60,8 @@ As a self-starter, I take pride in delivering exceptional results for my clients
 [Create a VPC on AWS platform from scratch.](https://github.com/elisrizea/aws_vpc_terraform)
 
 
-***Externel limks:***
+
+## Externel limks:
 
 *Android*
 
