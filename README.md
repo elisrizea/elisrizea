@@ -92,7 +92,12 @@ As a self-starter, I take pride in delivering exceptional results for my clients
 
 ## 
 **Tools:**
-<img align="center" src="https://icon-library.com/images/git-icon/git-icon-6.jpg" height="40" width="40"  />.<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/440px-Docker_%28container_engine%29_logo.svg.png" height="30" width="100"  />. <img align="center" src="https://bibliotecaligiei.ro/icons/numpy.png" height="30" width="100"  />.<img align="center" src="https://bibliotecaligiei.ro/icons/keras.png" height="30" width="100" />. <img align="center" src="https://bibliotecaligiei.ro/icons/pandas.png" height="30" width="100" />  <img align="center" src="https://bibliotecaligiei.ro/icons/firebase.png" height="30" width="60"  />  <img align="center" src="https://bibliotecaligiei.ro/icons/wp.png" height="30" width="40"  />  <img align="center" src="https://bibliotecaligiei.ro/icons/oscomerce.jpeg" height="30" width="60"  />  <br>
+<img align="center" src="https://icon-library.com/images/git-icon/git-icon-6.jpg" height="40" width="40"  />.<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/440px-Docker_%28container_engine%29_logo.svg.png" height="30" width="100"  />. 
+<img align="center" src="https://kubernetes.io/images/kubernetes-horizontal-color.png" height="30" width="100"  />. 
+<img align="center" src="https://www.datocms-assets.com/58478/1640019487-og-image.png" height="30" width="100"  />. 
+<img align="center" src="https://www.jenkins.io/images/logo-title-opengraph.png" height="30" width="100"  />. 
+<img align="center" src="https://www.ansible.com/hubfs/2017_Images/Social/RedHat-Ansible-Engine.png" height="30" width="100"  />. 
+<img align="center" src="https://bibliotecaligiei.ro/icons/numpy.png" height="30" width="100"  />.<img align="center" src="https://bibliotecaligiei.ro/icons/keras.png" height="30" width="100" />. <img align="center" src="https://bibliotecaligiei.ro/icons/pandas.png" height="30" width="100" />  <img align="center" src="https://bibliotecaligiei.ro/icons/firebase.png" height="30" width="60"  />  <img align="center" src="https://bibliotecaligiei.ro/icons/wp.png" height="30" width="40"  />  <img align="center" src="https://bibliotecaligiei.ro/icons/oscomerce.jpeg" height="30" width="60"  />  <br>
 
 ## 
 **Other skills:**
