@@ -97,7 +97,8 @@ As a self-starter, I take pride in delivering exceptional results for my clients
 <img align="center" src="https://www.datocms-assets.com/58478/1640019487-og-image.png" height="30" width="100"  />. 
 <img align="center" src="https://www.jenkins.io/images/logo-title-opengraph.png" height="30" width="100"  />. 
 <img align="center" src="https://www.ansible.com/hubfs/2017_Images/Social/RedHat-Ansible-Engine.png" height="30" width="100"  />. 
-<img align="center" src="https://bibliotecaligiei.ro/icons/numpy.png" height="30" width="100"  />.<img align="center" src="https://bibliotecaligiei.ro/icons/keras.png" height="30" width="100" />. <img align="center" src="https://bibliotecaligiei.ro/icons/pandas.png" height="30" width="100" />  <img align="center" src="https://bibliotecaligiei.ro/icons/firebase.png" height="30" width="60"  />  <img align="center" src="https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2023/02/16/aws_bp_primarylogo_01.png" height="30" width="100"  />  <br>
+  <img align="center" src="https://bibliotecaligiei.ro/icons/firebase.png" height="30" width="60"  />  <img align="center" src="https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2023/02/16/aws_bp_primarylogo_01.png" height="30" width="100"  />  <br>
+  <img align="center" src="https://bibliotecaligiei.ro/icons/numpy.png" height="30" width="100"  />.<img align="center" src="https://bibliotecaligiei.ro/icons/keras.png" height="30" width="100" />. <img align="center" src="https://bibliotecaligiei.ro/icons/pandas.png" height="30" width="100" /> <br>
 
 ## 
 **Other skills:**
